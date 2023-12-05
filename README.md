@@ -1,6 +1,6 @@
 ## View the Website
 
-Visit [example.com](https://example.com) to view the website.
+Visit [Product Page](https://product-page-kho9.onrender.com) to view the website.
 
 # Product Page
 
