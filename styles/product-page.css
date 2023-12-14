@@ -1,7 +1,27 @@
 @font-face {
     font-family: "Star Jedi";
-    src: url("https://db.onlinewebfonts.com/t/0c724f6aa457310440cf8949c615cbd7.eot");
-    src: url("https://db.onlinewebfonts.com/t/0c724f6aa457310440cf8949c615cbd7.eot?#iefix") format("embedded-opentype"), url("https://db.onlinewebfonts.com/t/0c724f6aa457310440cf8949c615cbd7.woff2") format("woff2"), url("https://db.onlinewebfonts.com/t/0c724f6aa457310440cf8949c615cbd7.woff") format("woff"), url("https://db.onlinewebfonts.com/t/0c724f6aa457310440cf8949c615cbd7.ttf") format("truetype"), url("https://db.onlinewebfonts.com/t/0c724f6aa457310440cf8949c615cbd7.svg#Star Jedi") format("svg");
+
+    /* src: url("https://db.onlinewebfonts.com/t/0c724f6aa457310440cf8949c615cbd7.eot"),
+        url("https://db.onlinewebfonts.com/t/0c724f6aa457310440cf8949c615cbd7.eot?#iefix") format("embedded-opentype"),
+        url("https://db.onlinewebfonts.com/t/0c724f6aa457310440cf8949c615cbd7.woff2") format("woff2"),
+        url("https://db.onlinewebfonts.com/t/0c724f6aa457310440cf8949c615cbd7.woff") format("woff"),
+        url("https://db.onlinewebfonts.com/t/0c724f6aa457310440cf8949c615cbd7.ttf") format("truetype"),
+        url("https://db.onlinewebfonts.com/t/0c724f6aa457310440cf8949c615cbd7.svg#Star Jedi") format("svg"); */
+
+    src: url("../StarJediV2/Star\ Jedi\ V2.woff2") format("woff2"),
+        url("../StarJediV2/Star\ Jedi\ V2.bin") format("application/x-font-binary"),
+        url("../StarJediV2/Star\ Jedi\ V2.cff") format("cff"),
+        url("../StarJediV2/Star\ Jedi\ V2.dfont") format("dfont"),
+        url("../StarJediV2/Star\ Jedi\ V2.eot") format("embedded-opentype"),
+        url("../StarJediV2/Star\ Jedi\ V2.otf") format("opentype"),
+        url("../StarJediV2/Star\ Jedi\ V2.pfa") format("pfa"),
+        url("../StarJediV2/Star\ Jedi\ V2.ps") format("ps"),
+        url("../StarJediV2/Star\ Jedi\ V2.pt3") format("pt3"),
+        url("../StarJediV2/Star\ Jedi\ V2.svg") format("svg"),
+        url("../StarJediV2/Star\ Jedi\ V2.t11") format("t11"),
+        url("../StarJediV2/Star\ Jedi\ V2.t42") format("t42"),
+        url("../StarJediV2/Star\ Jedi\ V2.ttf") format("truetype"),
+        url("../StarJediV2/Star\ Jedi\ V2.woff") format("woff");
 }
 
 * {
